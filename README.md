@@ -2,6 +2,8 @@
 
 A comprehensive typing speed tester built with Next.js, TypeScript, and Tailwind CSS. Test your typing speed and accuracy with customizable paragraphs across different categories.
 
+try it live at [TypingSpeed Tester](https://typing-speed-tester-eight.vercel.app/)
+
 ![TypingSpeed Tester](https://img.shields.io/badge/Next.js-15.3.5-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
